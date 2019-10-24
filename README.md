@@ -1,2 +1,2 @@
-# simple-pub-sub-mqtt
-Simple publish and subscribe using ruby
+# Simple Publish and Subscribe MQTT
+Simple publish and subscribe MQTT using ruby 
